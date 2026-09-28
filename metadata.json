@@ -1,0 +1,6 @@
+{
+  "name": "SweldoSplitter - Income Allocation & Daily Budget Manager",
+  "description": "Smart Philippine Peso (₱) income allocation, flexible multi-month pay periods, itemized sub-legends, and dynamic next-day daily expense rollover budget manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
